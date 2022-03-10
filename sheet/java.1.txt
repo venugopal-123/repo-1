@@ -1,4 +1,4 @@
-day2 code check in()
+day2 code check out(jenkins)
 {
 day1 code update()
 }
