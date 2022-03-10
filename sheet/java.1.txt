@@ -1,3 +1,5 @@
 day2 code check in()
 {
+day1 code update()
+}
 
